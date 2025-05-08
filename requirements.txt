@@ -1,0 +1,16 @@
+git+https://github.com/openai/point-e.git
+streamlit
+torch
+torchvision
+transformers
+diffusers
+accelerate
+scipy
+Pillow
+numpy
+open3d
+matplotlib
+opencv-python
+tqdm
+trimesh
+gdown
