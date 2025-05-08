@@ -64,22 +64,22 @@ Text to 3D object has no colour, can be code better to looks better, fill colour
 ## Sample Results
 
 
-## Text to 3D
+### Text to 3D
 
-### INPUT
+#### INPUT
 ![Input of TEXT to 3D](sample/input.jpg)
 
-### OUTPUT
+#### OUTPUT
 ![RESULT](sample/output-text.jpg)
 
 -----
 
-## Image to 3D
+### Image to 3D
 
-### INPUT
+#### INPUT
 ![IMAGE TO 3D](sample/input-img.jpg)
 
-### OUTPUT
+#### OUTPUT
 ![RESULT](sample/output-img.png)
 
 
