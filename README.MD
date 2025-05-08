@@ -61,22 +61,22 @@ Image to 3D object have too much sharpness can be reduced it which makes much mo
 
 Text to 3D object has no colour, can be code better to looks better, fill colour in the object.
 
-#### Sample Results
+## Sample Results
+
 
 #Text to 3D
 
-##Input
 ![Input of TEXT to 3D](sample/input.jpg)
-##Result
-![Alt text](sample/output-text.jpg)
 
+![RESULT](sample/output-text.jpg)
+
+-----
 
 #Image to 3D
 
-##Input
-![Alt text](sample/input-img.jpg)
+![IMAGE TO 3D](sample/input-img.jpg)
 ##Result
-![Alt text](sample/output-img.png)
+![RESULT](sample/output-img.png)
 
 
 
