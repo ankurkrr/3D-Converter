@@ -66,7 +66,7 @@ Text to 3D object has no colour, can be code better to looks better, fill colour
 #Text to 3D
 
 ##Input
-![Alt text](sample/input.jpg)
+![Input of TEXT to 3D](sample/input.jpg)
 ##Result
 ![Alt text](sample/output-text.jpg)
 
